@@ -12,6 +12,6 @@
     { "id": 2, "start": "2017/10/24 17:00:00", "end": "2017/10/24 18:00:00" }
   ],
   "profile": {
-    "name": "Edu"
+    "name": "Edu", family_name: "Estanan"
   }
 }
