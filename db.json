@@ -3,7 +3,9 @@
     { "id": 1, "name": "エド" },
     { "id": 2, "name": "松藤" },
     { "id": 3, "name": "前田" },
-    { "id": 4, "name": "島田" }
+    { "id": 4, "name": "島田" },
+    { "id": 4, "name": "鈴木" }
+    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
